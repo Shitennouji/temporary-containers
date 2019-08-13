@@ -1,0 +1,155 @@
+{
+  "automaticMode": {
+    "message": "自動モード"
+  },
+  "optionsSave": {
+    "message": "保存する"
+  },
+  "optionsNavGeneral": {
+    "message": "全般"
+  },
+  "optionsNavIsolation": {
+    "message": "分離"
+  },
+  "optionsNavAdvanced": {
+    "message": "高度な"
+  },
+  "optionsNavStatistics": {
+    "message": "統計"
+  },
+  "optionsNavExportImport": {
+    "message": "エクスポート/インポート"
+  },
+  "optionsGeneralNotifications": {
+    "message": "一時コンテナを削除する際の通知"
+  },
+  "optionsGeneralContainerNamePrefix": {
+    "message": "コンテナ名の接頭辞"
+  },
+  "optionsGeneralContainerColor": {
+    "message": "コンテナの色"
+  },
+  "optionsGeneralContainerColorBlue": {
+    "message": "ブルー"
+  },
+  "optionsGeneralContainerColorTurquoise": {
+    "message": "ターコイズブルー"
+  },
+  "optionsGeneralContainerColorGreen": {
+    "message": "グリーン"
+  },
+  "optionsGeneralContainerColorYellow": {
+    "message": "イエロー"
+  },
+  "optionsGeneralContainerColorOrange": {
+    "message": "オレンジ"
+  },
+  "optionsGeneralContainerColorRed": {
+    "message": "レッド"
+  },
+  "optionsGeneralContainerColorPink": {
+    "message": "ピンク"
+  },
+  "optionsGeneralContainerColorPurple": {
+    "message": "パープル"
+  },
+  "optionsGeneralContainerColorToolbar": {
+    "message": "ツールバー（ブラック/グレー）"
+  },
+  "optionsGeneralContainerRandomColor": {
+    "message": "ランダムなコンテナカラー"
+  },
+  "optionsGeneralContainerIcon": {
+    "message": "コンテナのアイコン"
+  },
+  "optionsGeneralContainerIconFingerprint": {
+    "message": "指紋"
+  },
+  "optionsGeneralContainerIconBriefcase": {
+    "message": "ブリーフケース"
+  },
+  "optionsGeneralContainerIconDollar": {
+    "message": "＄"
+  },
+  "optionsGeneralContainerIconCart": {
+    "message": "カート"
+  },
+  "optionsGeneralContainerIconCircle": {
+    "message": "サークル"
+  },
+  "optionsGeneralContainerIconGift": {
+    "message": "ギフト"
+  },
+  "optionsGeneralContainerIconVacation": {
+    "message": "休暇"
+  },
+  "optionsGeneralContainerIconFood": {
+    "message": "食べ物"
+  },
+  "optionsGeneralContainerIconFruit": {
+    "message": "フルーツ"
+  },
+  "optionsGeneralContainerIconPet": {
+    "message": "ペット"
+  },
+  "optionsGeneralContainerIconTree": {
+    "message": "ツリー"
+  },
+  "optionsGeneralContainerIconChill": {
+    "message": "寒気"
+  },
+  "optionsGeneralContainerIconFence": {
+    "message": "フェンス"
+  },
+  "optionsGeneralContainerIconRandom": {
+    "message": "ランダムなコンテナアイコン"
+  },
+  "optionsGeneralContainerNumber": {
+    "message": "コンテナ番号"
+  },
+  "optionsGeneralContainerNumberKeepCounting": {
+    "message": "カウントを続ける（規定）"
+  },
+  "optionsGeneralContainerNumberReuseNumbers": {
+    "message": "利用可能な番号を再利用する"
+  },
+  "optionsGeneralContainerRemoval": {
+    "message": "不要になった一時コンテナを削除する"
+  },
+  "optionsGeneralContainerRemovalTooltip": {
+    "message": "\"X 分\" できます \"タブを閉じるを元に戻す\" その時間枠で"
+  },
+  "optionsGeneralContainerRemoval15Minutes": {
+    "message": "最後のタブが閉じてから15分後（規定）"
+  },
+  "optionsGeneralContainerRemoval5Minutes": {
+    "message": "最後のタブが閉じてから５分後"
+  },
+  "optionsGeneralContainerRemoval2Minutes": {
+    "message": "最後のタブが閉じてから２分後"
+  },
+  "optionsGeneralContainerRemovalInstant": {
+    "message": "最後のタブが閉じた後"
+  },
+  "optionsGeneralToolbarIconColor": {
+    "message": "ツールバーアイコンの色"
+  },
+  "optionsGeneralToolbarIconColorTooltip": {
+    "message": "規定に戻す場合、テーマに応じてブラウザを再起動する必要があります"
+  },
+  "optionsGeneralToolbarIconColorDefault": {
+    "message": "規定"
+  },
+  "optionsGeneralToolbarIconColorBlackSimple": {
+    "message": "ブラック（シンプル）"
+  },
+  "optionsGeneralToolbarIconColorBlueSimple": {
+    "message": "ブルー（シンプル）"
+  },
+  "optionsGeneralToolbarIconColorRedSimple": {
+    "message": "レッド（シンプル）"
+  },
+  "optionsGeneralToolbarIconColorWhiteSimple": {
+    "message": "ホワイト（シンプル）"
+  }
+}
